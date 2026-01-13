@@ -70,7 +70,7 @@ async def root():
         
         <h2>Example Usage</h2>
         <div class="example">
-            <code>curl https://localhost:8000/maybe</code><br>
+            <code>curl https://maybe-as-a-service.fly.dev/maybe</code><br>
             Returns: <code>{"response": "Maybe yes, maybe no, maybe I'll decide tomorrow.", "id": 7, "category": "philosophical"}</code>
         </div>
         
