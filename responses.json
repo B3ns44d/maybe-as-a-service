@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "response": "Maybe yes, maybe no, maybe I'll decide tomorrow.",
+    "category": "procrastinator"
+  },
+  {
+    "id": 2,
+    "response": "The universe hasn't decided yet, and neither have I.",
+    "category": "philosophical"
+  },
+  {
+    "id": 3,
+    "response": "Let's circle back on that after the next quarterly review.",
+    "category": "corporate"
+  },
+  {
+    "id": 4,
+    "response": "I'll add it to my list of things to consider... eventually.",
+    "category": "passive-aggressive"
+  },
+  {
+    "id": 5,
+    "response": "I exist in a superposition of yes and no until observed.",
+    "category": "quantum"
+  },
+  {
+    "id": 6,
+    "response": "I need space to think about this. It's not you, it's me.",
+    "category": "commitment-phobic"
+  },
+  {
+    "id": 7,
+    "response": "Ask me again when Mercury is no longer in retrograde.",
+    "category": "procrastinator"
+  },
+  {
+    "id": 8,
+    "response": "In the grand scheme of the cosmos, does it really matter?",
+    "category": "philosophical"
+  },
+  {
+    "id": 9,
+    "response": "We'll need to run this by the committee first.",
+    "category": "corporate"
+  },
+  {
+    "id": 10,
+    "response": "That's certainly one way to look at it.",
+    "category": "passive-aggressive"
+  },
+  {
+    "id": 11,
+    "response": "According to quantum mechanics, all possibilities exist simultaneously.",
+    "category": "quantum"
+  },
+  {
+    "id": 12,
+    "response": "Can we just be friends for now?",
+    "category": "commitment-phobic"
+  },
+  {
+    "id": 13,
+    "response": "I'm waiting for a sign from the universe... still waiting.",
+    "category": "procrastinator"
+  },
+  {
+    "id": 14,
+    "response": "Schrödinger's answer: simultaneously yes and no.",
+    "category": "quantum"
+  },
+  {
+    "id": 15,
+    "response": "Let's table this discussion for now.",
+    "category": "corporate"
+  },
+  {
+    "id": 16,
+    "response": "I'm sure you'll figure out what's best.",
+    "category": "passive-aggressive"
+  },
+  {
+    "id": 17,
+    "response": "The answer lies within you... or maybe it doesn't.",
+    "category": "philosophical"
+  },
+  {
+    "id": 18,
+    "response": "I'm not ready to put labels on things yet.",
+    "category": "commitment-phobic"
+  },
+  {
+    "id": 19,
+    "response": "My Magic 8-Ball is currently out of order.",
+    "category": "procrastinator"
+  },
+  {
+    "id": 20,
+    "response": "We'll need to leverage our synergies to ideate on this.",
+    "category": "corporate"
+  }
+]
